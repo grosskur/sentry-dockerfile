@@ -24,7 +24,7 @@ email-reply-parser==0.2.0
 enum34==0.9.23
 exam==0.10.5
 gunicorn==19.3.0
-httplib2==0.9.1
+httplib2==0.18.0
 ipaddr==2.1.11
 kombu==2.5.16
 logan==0.5.10
