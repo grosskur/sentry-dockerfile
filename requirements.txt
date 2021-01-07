@@ -28,7 +28,7 @@ httplib2==0.9.1
 ipaddr==2.1.11
 kombu==2.5.16
 logan==0.5.10
-lxml==3.4.4
+lxml==4.6.2
 Markdown==2.4.1
 mock==1.0.1
 ndg-httpsclient==0.4.0
