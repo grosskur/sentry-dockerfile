@@ -39,7 +39,7 @@ psycopg2==2.5.5
 py==1.4.26
 pyasn1==0.1.7
 pycparser==2.12
-Pygments==1.6
+Pygments==2.7.4
 pyOpenSSL==0.15.1
 pytest==2.7.0
 pytest-django==2.8.0
