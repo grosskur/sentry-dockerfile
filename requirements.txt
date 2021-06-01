@@ -58,4 +58,4 @@ South==1.0.1
 statsd==1.0.0
 toronado==0.0.6
 ua-parser==0.3.6
-urllib3==1.7.1
+urllib3==1.26.5
